@@ -1,0 +1,32 @@
+{
+    "Name": "PS13 Molecular Imaging Brain Atlas (Kim 2021)",
+    "BIDSVersion": "1.6.0",
+    "DatasetType": "derivative",
+    "License": "CC0",
+    "Authors": [
+      "Doug Greve",
+      "Melanie Ganz",
+      "Martin Nørgaard",
+      "Granville Matheson",
+      "Cyril Pernet",
+      "Anthony Galassi",
+      "Paolo Zanotti-Fregonara",
+      "Paul Wighton",
+      "Adam Thomas",
+      "Gitte Knudsen",
+      "Robert Innis"
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "petsurfer",
+            "Version": "freesurfer-linux-centos7_x86_64-7.3.2-20220804-6354275"
+        }
+    ],
+    "SourceDatasets": [
+        {
+            "DOI": "doi:10.18112/openneuro.ds004230.v2.3.1",
+            "URL": "https://openneuro.org/datasets/ds004230/versions/2.3.1",
+            "Version": "2.3.1"
+        }
+    ]
+}
