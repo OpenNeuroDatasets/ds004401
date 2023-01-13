@@ -1,5 +1,5 @@
 {
-    "Name": "PS13 Molecular Imaging Brain Atlas (Kim 2021)",
+    "Name": "A PET Molecular Imaging Brain Atlas of Cyclooxygenase-1 (Kim 2021)",
     "BIDSVersion": "1.6.0",
     "DatasetType": "derivative",
     "License": "CC0",
