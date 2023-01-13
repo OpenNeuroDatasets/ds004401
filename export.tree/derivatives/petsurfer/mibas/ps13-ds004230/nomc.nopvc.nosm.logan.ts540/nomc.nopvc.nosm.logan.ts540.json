@@ -1,0 +1,8 @@
+{
+    "MIBA": "nomc.nopvc.nosm.logan.ts540",
+    "Motion Correction": "None",
+    "Partial Volume Correction": "None",
+    "Smoothing": "None",
+    "Method": "Logan",
+    "Tstar": "540s"
+}
