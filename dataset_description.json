@@ -4,19 +4,19 @@
     "DatasetType": "derivative",
     "License": "CC0",
     "Authors": [
-        "Doug Greve",
-        "Paul Wighton",
-        "Melanie Ganz",
-        "Martin Nørgaard",
-        "Paolo Zanotti-Fregonara",
-        "Cyril Pernet",
-        "Anthony Galassi",
-        "Adam Thomas",
-        "Nafiseh Ghazanfari",
-        "Jeih-San Liow",
-        "Granville Matheson",
-        "Gitte Knudsen",
-        "Robert Innis"
+      "Doug Greve",
+      "Paul Wighton",
+      "Melanie Ganz",
+      "Martin Nørgaard",
+      "Paolo Zanotti-Fregonara",
+      "Cyril Pernet",
+      "Anthony Galassi",
+      "Adam Thomas",
+      "Nafiseh Ghazanfari",
+      "Jeih-San Liow",
+      "Granville Matheson",
+      "Gitte Knudsen",
+      "Robert Innis"
     ],
     "GeneratedBy": [
         {
@@ -30,6 +30,5 @@
             "URL": "https://openneuro.org/datasets/ds004230/versions/2.3.1",
             "Version": "2.3.1"
         }
-    ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds004401.v1.0.1"
+    ]
 }
