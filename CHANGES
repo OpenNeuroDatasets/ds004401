@@ -4,9 +4,6 @@
   - Title Changed to "A PET Molecular Imaging Brain Atlas of Cyclooxygenase-1"
   - README updated
   - Cleanup of the `derivatives/freesurfer/mni152` directory
-1.1.0 2023-02-27
+1.1.0 2023-02-28
   - Attempting to harmonize with draft of BIDS atlas spec
   - See https://docs.google.com/document/d/1RxW4cARr3-EiBEcXjLpSIVidvnUSHE7yJCUY91i5TfM
-  - Current Issues:
-    - Surface data in fsaverage space is currently encoded as 1d niftis instead of giftis
-    - Using `mean` and `std` filename suffixes which aren't included in the spec
