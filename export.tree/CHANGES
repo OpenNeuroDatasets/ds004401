@@ -1,0 +1,6 @@
+1.0.0 2023-01-12
+  - Inital version
+1.0.1 2023-01-13
+  - - Title Changed to "A PET Molecular Imaging Brain Atlas of Cyclooxygenase-1"
+  - - README updated
+  - - Cleanup of the `derivatives/freesurfer/mni152` directory
