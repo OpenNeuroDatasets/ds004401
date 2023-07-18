@@ -1,3 +1,7 @@
+1.2.0 2023-07-18
+  - Harmonizing with latest consensus for BIDS atlas spec
+  - Adding atlases that have been partial volume corrected
+  - Adding atlases in an additional space, mni152, with 1) linear registration 2) non-linear registration via fnirt and 3) non-linear registration via vbm (from spm)
 1.0.0 2023-01-12
   - Inital version
 1.0.1 2023-01-13
