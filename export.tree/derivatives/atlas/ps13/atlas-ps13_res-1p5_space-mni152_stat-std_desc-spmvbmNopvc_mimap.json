@@ -1,0 +1,15 @@
+{
+  "Name": "A PET Molecular Imaging Brain Atlas of Cyclooxygenase-1 (Kim 2021)",
+  "Space": "mni152",
+  "Resolution": "1.5 x 1.5 x 1.5",
+  "ResolutionUnits": "mm",
+  "Species": "Human",
+  "LevelType": "group", 
+  "Motion Correction": "None",
+  "Partial Volume Correction": "None",
+  "Smoothing": "None",
+  "Method": "Logan",
+  "Tstar": "540s",
+  "Nonlinear Registration": "spmvbm",
+  "DerivedFrom": "PET"
+}
