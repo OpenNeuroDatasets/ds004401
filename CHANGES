@@ -12,7 +12,6 @@
   - Adding atlases that have been partial volume corrected
   - Adding atlases in an additional space, mni152, with 1) linear registration 2) non-linear registration via fnirt and 3) non-linear registration via vbm (from spm)
 1.3.0 2023-07-21
-  - OHBM version
   - `res` entity has been changed from `2` to `1p5` for `spmvbm` files
   - `"Resolution"` has been broken up into `"Resolution"` and `"ResolutionUnits"` in all json files.
   - `hemi` entity has been changed from `lh` or `rh` to `L` or `R` to conform with spec
